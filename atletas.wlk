@@ -39,6 +39,12 @@ method edad() {
 method cambiarCantidadDeInvitados(cant) {
     invitados = cant
 }
+method disciplina() {
+    return disciplina
+}
+method elemento() {
+    return elemento
+}
 }
 
 object comiteOlimpico {
